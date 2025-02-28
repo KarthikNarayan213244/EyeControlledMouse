@@ -1,8 +1,6 @@
 # 🖱️ Eye-Controlled Mouse  
 **Hands-Free Cursor Control Using Eye Tracking**  
 
-![Eye Mouse Demo](https://your-image-url.com)  <!-- Replace with an actual image or GIF link -->
-
 ## 🚀 Overview  
 This project implements a **real-time eye-tracking mouse control system** using **Python, OpenCV, MediaPipe, and PyAutoGUI**. It allows users to move the cursor and perform mouse actions using **eye gestures**.  
 
